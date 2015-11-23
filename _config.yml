@@ -61,11 +61,47 @@ owner:
   bing-verify:
 
 prose:
-  #rooturl: '_posts'
-  siteurl: 'http://victoriancarolsingershire.uk'
-  #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  rooturl: '_posts/reviews'
+  ssiteurl: 'http://victoriancarolsingershire.uk'
   media: 'images'
   ignore:
     - _config.yml
     - /_layouts
     - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          label: "layout"
+          element: "text"
+          value: "post"
+      - name: "date"
+        field:
+          label: "date"
+          element: "text"
+          value: "CURRENT_DATETIME"
+      - name: "categories"
+        field:
+          label: "categories"
+          element: "text"
+          value: "review"
+      - name: "authorame"
+        field:
+          label: "authorname"
+          element: "text"
+          placeholder: "Enter reviewer"
+      - name: "title"
+        field:
+          label: "title"
+          element: "text"
+          placeholder: "Enter title"
+      - name: "excerpt"
+        field:
+          label: "excerpt"
+          element: "text"
+          placeholder: "Enter excerpt"
+      - name: "meta"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "Enter metadata"
