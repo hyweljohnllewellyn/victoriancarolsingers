@@ -5,7 +5,7 @@ modified:
 categories: review
 excerpt: "Welcome to a new Website brought to you by Victorian Carol Singers Hire UK."
 authorname: "Hywel"
-postimage: "images/victorian carollers.jpg"
+postimage: "/images/victorian carollers.jpg"
 rating:
 date: 2015-09-05T21:46:46+01:00
 ---
