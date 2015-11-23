@@ -70,7 +70,9 @@ prose:
     - /_includes
     - /_site
     - /_assets
+    - /_templates
     - /tags
+    - /.sass-cache
     - google3df4db656466c45d.html
     - CNAME
     - _octopress.yml
