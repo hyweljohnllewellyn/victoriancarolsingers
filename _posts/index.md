@@ -9,7 +9,7 @@ search_omit: true
 {% for post in site.posts limit:40 %}
   <li><article>
   <!-- Hywel Start -->
-  {% if post.postimage %} howdy
+  {% if post.excerpt %} howdy
   <img src="{{ site.url }}{{ post.postimage }}" alt="{{ post.postimage }}" width="40" height ="40">
   {% endif %}
   <!-- Hywel End -->
