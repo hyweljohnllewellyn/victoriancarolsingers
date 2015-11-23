@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Victorian Carol Singers Hire</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://victoriancarolsingershire.uk/feed.xml" />
+<link rel="alternate" type="text/html" href="http://victoriancarolsingershire.uk" />
+<updated>2015-11-22T20:29:15+00:00</updated>
+<id>http://victoriancarolsingershire.uk/</id>
+<author>
+  <name>Victorian Carollers</name>
+  <uri>http://victoriancarolsingershire.uk/</uri>
+  <email>info@victoriancarolsingershire.uk</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Hello World]]></title>
+  <link rel="alternate" type="text/html" href="http://victoriancarolsingershire.uk/review/hello-world/" />
+  <id>http://victoriancarolsingershire.uk/review/hello-world</id>
+  <published>2015-09-05T21:46:46+01:00</published>
+  <updated>2015-09-05T21:46:46+01:00</updated>
+  <author>
+    <name>Victorian Carollers</name>
+    <uri>http://victoriancarolsingershire.uk</uri>
+    <email>info@victoriancarolsingershire.uk</email>
+  </author>
+  <content type="html">
+    &lt;h2 id=&quot;welcome-to-a-new-website-brought-to-you-by-victorian-carol-singers-hire-uk&quot;&gt;Welcome to a new Website brought to you by Victorian Carol Singers Hire UK.&lt;/h2&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://victoriancarolsingershire.uk/review/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Victorian Carollers at &lt;a href=&quot;http://victoriancarolsingershire.uk&quot;&gt;Victorian Carol Singers Hire&lt;/a&gt; on September 05, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>

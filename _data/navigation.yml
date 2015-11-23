@@ -1,0 +1,21 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Rates
+  url: /rates/
+
+- title: Contact
+  url: /contact/
+
+- title: Reviews
+  url: /reviews/
+
+#- title: Search
+#  url: /search/
+
+#- title: About
+#  url: /about/
+
+#- title: Articles
+#  url: /articles/

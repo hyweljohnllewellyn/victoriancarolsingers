@@ -1,0 +1,79 @@
+---
+layout: page
+title: Contact us with your Enquiry
+description: "Contact us using the form, email or provide your phone to enquire about our victorian carol singers for hire."
+excerpt: "Contact us to enquire about our victorian carol singers for hire."
+tags: "Victorian, Carol, Singers, Christmas, Festive, Party, Event, Carollers, London, Hire, Top Hats, Dresses"
+---
+Alternatively, you can email
+<a href="mailto:{{ site.owner.email }}?Subject=Victorian%20Carol%20Singers%20Hire%20Enquiry" target="_top">{{ site.owner.email }}</a>
+<!--Hartley Voices Custom Form
+<form action="https://hartleyvoices.com/contactForm.php" method="post">
+<input type='hidden' name='redirect_to' value="{{ site.url }}/thankyou/" />
+<input type='hidden' name='referrer' value="{{ site.url }}">
+<input type='hidden' name='_sendto' value="{{ site.owner.email }}">
+<input type='hidden' name='_key' value="{{ site.owner.key }}">
+-->
+<!--formspree.io Custom Form-->
+<form action="//formspree.io/{{ site.owner.email }}" method="POST">
+<input type="hidden" name="_next" value="{{ site.url }}/thankyou/" />
+<input type="hidden" name="_subject" value="{{ site.owner.subject}}" />
+<fieldset>
+<label for="name">Name:</label>
+ <input type='text' name='name' placeholder = "Your name" required/>
+<label for="email">Email:</label>
+ <input type='email' name='_replyto' placeholder = "Your email address"/>
+
+<label for="phone">Phone:</label>
+ <input type='tel' name='phone' placeholder = "Your phone number" pattern = '^\s*\(?(020[7,8]{1}\)?[ ]?[1-9]{1}[0-9{2}[ ]?[0-9]{4})|(0[1-8]{1}[0-9]{3}\)?[ ]?[1-9]{1}[0-9]{2}[ ]?[0-9]{3})\s*$' />
+ <label for="conactmethod">How would you like to be contacted?</label>
+   <select name="conactmethod">
+   <option value="email" >by email</option>
+   <option value="phone" >by phone</option>
+   </select>
+<label for="eventtype">Event type:</label>
+ <input type='text' name='eventtype' placeholder = "What is your event?"/>
+<label for="eventdate">Event date:</label>
+<input type='date' name='eventdate' placeholder = "Event date?"/>
+<label for="eventlength">Length of performance required:</label>
+ <input type='text' name='eventlength' placeholder = "For example, two 20 minute sets"/>
+<label for="performancestart">Performance start time:</label>
+<select name="hour">
+<option value="">hour</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+</select>
+<select name="minute">
+<option value="">minute</option>
+<option value="00">00</option>
+<option value="05">05</option>
+<option value="10">10</option>
+<option value="15">15</option>
+<option value="20">20</option>
+<option value="25">25</option>
+<option value="30">30</option>
+<option value="35">35</option>
+<option value="40">40</option>
+<option value="45">45</option>
+<option value="50">50</option>
+<option value="55">55</option>
+</select>
+<input type="radio" name="ampm" value="am" />am
+<input type="radio" name="ampm" value="pm" checked>pm
+<label for="venue">Venue location or post code:</label>
+ <input type='text' name='venuelocation' placeholder = "What is the address of your venue?"/>
+<label for="otherdetails">Other details:</label>
+  <textarea name='otherdetails' ></textarea>
+</fieldset>
+<input type="submit" value="Send">
+</form>
