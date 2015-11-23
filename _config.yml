@@ -85,7 +85,7 @@ prose:
           label: "categories"
           element: "text"
           value: "review"
-      - name: "authorame"
+      - name: "authorname"
         field:
           label: "authorname"
           element: "text"
