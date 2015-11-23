@@ -61,13 +61,21 @@ owner:
   bing-verify:
 
 prose:
-  rooturl: '_posts/review'
+  rooturl: ''
   ssiteurl: 'http://victoriancarolsingershire.uk'
   media: 'images'
   ignore:
     - _config.yml
-    - /_layouts
+    - /_data
     - /_includes
+    - /_site
+    - /_assets
+    - /tags
+    - google3df4db656466c45d.html
+    - CNAME
+    - _octopress.yml
+    - _feed.xml
+    - Gemfile
   metadata:
     _posts:
       - name: "layout"
