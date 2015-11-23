@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Victorian Carollers
-  avatar: bio-photo.jpg
+  avatar: 
   email: info@victoriancarolsingershire.uk
   key: 4e5731fdbfb284935798479a2c00abd5
   subject: Victoran Carol Singers Enquiry
