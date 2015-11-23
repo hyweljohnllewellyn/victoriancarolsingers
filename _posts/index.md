@@ -9,8 +9,8 @@ search_omit: true
 {% for post in site.posts limit:40 %}
   <li><article>
   <!-- Hywel Start -->
-  {% if post.postimage %}
-  <img src="{{ site.url }}{{ post.postimage }}" alt="{{ post.postimage }}" class = "entry-image">
+  {% if post.postimage %} howdy
+  <img src="{{ site.url }}{{ post.postimage }}" alt="{{ post.postimage }}" width="40" height ="40">
   {% endif %}
   <!-- Hywel End -->
   <a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
