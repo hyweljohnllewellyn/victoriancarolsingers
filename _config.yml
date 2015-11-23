@@ -74,8 +74,10 @@ prose:
     - google3df4db656466c45d.html
     - CNAME
     - _octopress.yml
-    - _feed.xml
+    - feed.xml
     - Gemfile
+    - Gemfile.lock
+    - package.json
   metadata:
     _posts:
       - name: "layout"
