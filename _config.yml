@@ -61,7 +61,7 @@ owner:
   bing-verify:
 
 prose:
-  rooturl: '_posts/reviews'
+  rooturl: '_posts/review'
   ssiteurl: 'http://victoriancarolsingershire.uk'
   media: 'images'
   ignore:
