@@ -10,6 +10,11 @@
 	@include clearfix;
 }
 
+.entry-image {
+	margin: 0px 0 0;
+	width: 10%;
+//height="42" width="42"
+}
 .entry,
 .hentry {
 	@include clearfix;
