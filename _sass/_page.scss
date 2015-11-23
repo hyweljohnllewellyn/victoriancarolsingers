@@ -67,10 +67,10 @@ span + .entry-title {
 		text-decoration: underline;
 	}
 	@include media($medium) {
-		@include font-size(24,yes,24);
+		@include font-size(24,yes,36);
 	}
 	@include media($large) {
-		@include font-size(24,yes,24);
+		@include font-size(24,yes,48);
 	}
 }
 
