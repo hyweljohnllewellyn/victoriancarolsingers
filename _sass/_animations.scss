@@ -301,6 +301,7 @@
 @-webkit-keyframes drop {
   0% {
     -webkit-transform: translateY(-500px);
+    color: #fff;
   }
   100% {
     -webkit-transform: translateY(0);
@@ -309,14 +310,17 @@
 @-moz-keyframes drop {
   0% {
     -moz-transform: translateY(-500px);
+      color: white;
   }
   100% {
     -moz-transform: translateY(0);
+
   }
 }
 @-o-keyframes drop {
   0% {
     -o-transform: translateY(-500px);
+      color: white;
   }
   100% {
     -o-transform: translateY(0);
@@ -325,6 +329,7 @@
 @keyframes drop {
   0% {
     transform: translateY(-500px);
+      color: white;
   }
   100% {
     transform: translateY(0);
