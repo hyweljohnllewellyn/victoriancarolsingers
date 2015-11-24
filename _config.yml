@@ -112,6 +112,11 @@ prose:
           label: "title"
           element: "text"
           placeholder: "Enter title"
+      - name: "published"
+        field:
+          label: "published"
+          element: "text"
+          value: "true"
       - name: "meta"
         field:
           label: "meta"
