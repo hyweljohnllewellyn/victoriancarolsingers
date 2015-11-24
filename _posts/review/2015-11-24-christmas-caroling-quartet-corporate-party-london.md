@@ -5,7 +5,7 @@ categories: review
 authorname: Sam
 excerpt: "I just wanted to send an email to say how lovely the Carol Singers were and what positive feed back I got from the people at the party. All the Carol Singers were very polite, really friendly and very obligating to our needs"
 meta: ""
-published: false
+published: true
 title: "Christmas Caroling Quartet, Corporate Party,London"
 ---
 
