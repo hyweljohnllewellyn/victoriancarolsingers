@@ -5,7 +5,7 @@ categories: review
 authorname: Guy
 excerpt: "I just wanted to say a massive thank you for Friday's quartet. As ever they were brilliant, they were all very friendly and were keen to take requests!! They really lifted spirits and made everyone feel very Christmas like"
 meta: ""
-published: false
+published: true
 title: "Company Lunch, Waybridge, Surrey"
 ---
 
