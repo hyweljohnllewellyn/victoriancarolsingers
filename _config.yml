@@ -102,6 +102,11 @@ prose:
           label: "authorname"
           element: "text"
           placeholder: "Enter reviewer"
+      - name: "excerpt"
+        field:
+          label: "excerpt"
+          element: "text"
+          placeholder: "Enter excerpt"
       - name: "title"
         field:
           label: "title"
