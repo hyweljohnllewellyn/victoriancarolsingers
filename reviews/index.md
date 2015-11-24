@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Reviews
-excerpt: "An archive of review posts sorted by date."
-search_omit: true
+excerpt: "Victorian Carol Singers Reviews"
 ---
 
 <ul class="post-list">
