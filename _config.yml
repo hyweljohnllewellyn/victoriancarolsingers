@@ -107,11 +107,6 @@ prose:
           label: "title"
           element: "text"
           placeholder: "Enter title"
-      - name: "excerpt"
-        field:
-          label: "excerpt"
-          element: "text"
-          placeholder: "Enter excerpt"
       - name: "meta"
         field:
           label: "meta"
