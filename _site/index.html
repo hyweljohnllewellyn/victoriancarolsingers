@@ -123,7 +123,7 @@
 
 <div id="main" role="main">
   <article class="entry">
-    <img src="http://victoriancarolsingershire.uk/images/Victorian Carol Singers Colourful Dresses and Top Hats.jpg" class="entry-feature-image" alt="London's Premier Victorian Carollers" style="margin-top:0;">
+    <img src="http://victoriancarolsingershire.uk/images/Victorian Carol Singers Colourful Dresses and Top Hats.jpg" class="entry-feature-image" alt="London's Premier Victorian Carollers" usemap="#my_image" style="margin-top:0;">
     <div class="entry-wrapper">
       <header class="entry-header">
         <!--h1 class="entry-title">London's Premier Victorian Carollers</h1-->
@@ -133,7 +133,13 @@
       	
       </header>
       <div class="entry-content">
-        Victorian Carol Singers create an instant festive theme for your party.
+        <audio id="1st_sound">
+    <source src="http://victoriancarolsingershire.uk/audio/deck the halls.mp3" type="audio/mpeg" />
+</audio>
+<map name="my_image"> <area shape="rect" coords="0,100,100,200" onClick="document.getElementById('1st_sound').play(); return false;" />
+  </map>
+
+Victorian Carol Singers create an instant festive theme for your party.
 From the moment your guests approach your venue they hear the soaring voices in beautiful festive harmony.
 <!--figure>
 <img src="http://victoriancarolsingershire.uk/images/Victorian Carol Singers 2014 Penhaligons.jpg" alt="Victorian Carol Singers at Penhaligons">
@@ -195,7 +201,8 @@ var YMPParams = { autoplay:false,volume:1, assetsroot: 'http://victoriancarolsin
 </script>
 <script type="text/javascript" src="http://victoriancarolsingershire.uk/assets/yahoomedia/music-player.min.js"></script>
 -->
+<script src="http://victoriancarolsingershire.uk/assets/js/imagemapresizer/imageMapResizer.min.min.js"></script>
 
-
+imageMapResize();
 </body>
 </html>
