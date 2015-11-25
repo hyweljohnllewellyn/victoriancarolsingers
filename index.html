@@ -9,10 +9,19 @@ image:
   credit:
   creditlink:
 ---
-<audio id="1st_sound">
-    <source src="https://www.dropbox.com/s/ksx2l7y24qy7q98/Deck%20The%20Halls.mp3" type="audio/mpeg" />
+<audio id="1_sound">
+    <source src="https://www.dropbox.com/s/i26dpksqoswrpxr/SilentNight_short.mp3" type="audio/mpeg" />
 </audio>
-<map name="my_image"> <area shape="rect" coords="0,0,400,400" onClick="document.getElementById('1st_sound').play(); return false;" />
+
+<audio id="2_sound">
+    <source src="{{ site.url }}/audio/deck the halls.mp3" type="audio/mpeg" />
+</audio>
+
+<map name="my_image">
+
+  <area shape="rect" coords="0,0,100,100" onClick="document.getElementById('1_sound').play(); return false;" />
+<area shape="rect" coords="150,150,300,300" onClick="document.getElementById('2_sound').play(); return false;" />
+
   </map>
 
 Victorian Carol Singers create an instant festive theme for your party.
