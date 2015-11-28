@@ -9,9 +9,9 @@ $.each($('audio'), function () {
     $this.toggleClass('active');
     if($this.hasClass('active')){
         $this.text('pause');
-        id.play();
+      $('audio')[id].play();
     } else {
         $this.text('play');
-        id.pause();
+      $('audio')[id].play();          
     }
 });
