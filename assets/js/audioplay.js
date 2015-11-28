@@ -1,4 +1,5 @@
-$("map[name=my_image] area").on('click', function () {
+//$("map[name=my_image] area").on('click', function () {
+$("#my_image area").on('click', function () {
 var $this = $(this);
  var id = $this.attr('id').replace(/area/, '');
 
@@ -12,6 +13,6 @@ $.each($('audio'), function () {
       $('audio[id^="sound"]')[id-1].play();
     } else {
         $this.text('play');
-      $('audio[id^="sound"]')[id-1].pause();         
+      $('audio[id^="sound"]')[id-1].pause();
     }
 });
