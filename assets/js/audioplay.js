@@ -1,5 +1,5 @@
-//$("map[name=my_image] area").on('click', function () {
-$("#my_image area").on('click', function () {
+$("map[name=my_image] area").on('click', function () {
+//$("#my_image area").on('click', function () {
 var $this = $(this);
  var id = $this.attr('id').replace(/area/, '');
 
