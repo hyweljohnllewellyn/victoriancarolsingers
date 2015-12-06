@@ -6,7 +6,7 @@ description: London's Premier Victorian Carollers are the best and most experien
 tags: Victorian, Carol, Singers, Christmas, Festive, Party, Event, Carollers, London, Hire
 logo: #site-logo.png
 search: true
-url: http://victoriancarolsingershire.uk
+url: http://www.victoriancarolsingershire.uk
 #url: https://hartleyvoices.github.io/victoriancarolsingershireuk
 #url: http://127.0.0.1:4000
 
@@ -62,7 +62,7 @@ owner:
 
 prose:
   rooturl: ''
-  ssiteurl: 'http://victoriancarolsingershire.uk'
+  siteurl: 'http://www.victoriancarolsingershire.uk'
   media: 'images'
   ignore:
     - _config.yml
