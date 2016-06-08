@@ -10,6 +10,11 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: twenty-sixteen-child
 */
 
+/* 1924 */
+.author-avatar .avatar {
+	display: none;
+}
+
 .site-header {
 	padding: 0.5em 1%;
 }
