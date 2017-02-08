@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Victorian street performers &#8211; Victorian Carol Singers Hire UK</title>
+	<atom:link href="http://localhost/tag/victorian-street-performers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.victoriancarolsingershire.uk/</link>
+	<description>The best and most experienced Dickensian carolers</description>
+	<lastBuildDate>Wed, 08 Feb 2017 18:47:29 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+
+<image>
+	<url>https://www.victoriancarolsingershire.uk/wp-content/uploads/2016/05/cropped-Victorian-Carolers-for-Hire-32x32.png</url>
+	<title>Victorian street performers &#8211; Victorian Carol Singers Hire UK</title>
+	<link>https://www.victoriancarolsingershire.uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Christmas Party, Landmark Hotel, London</title>
+		<link>https://www.victoriancarolsingershire.uk/reviews/christmas-party-landmark-hotel-london/</link>
+		<pubDate>Mon, 12 Dec 2016 12:57:50 +0000</pubDate>
+		<dc:creator><![CDATA[victoriancarols_wp]]></dc:creator>
+				<category><![CDATA[reviews]]></category>
+		<category><![CDATA[Dickensian Carol Singers hire]]></category>
+		<category><![CDATA[Victorian street performers]]></category>
+
+		<guid isPermaLink="false">https://www.victoriancarolsingershire.uk/?p=103</guid>
+		<description><![CDATA[A massive thank you for a fantastic performance. It was much appreciated and it sounded wonderful. I am sure we will speak again sometime in the future. Until then, wishing you all a wonderful Christmas and new year!]]></description>
+				<content:encoded><![CDATA[<p class="p1"><span class="s1"><a href="https://www.victoriancarolsingershire.uk/reviews/christmas-party-landmark-hotel-london/attachment/dickensian_singers_background-150x150/" rel="attachment wp-att-107"><img class="size-full wp-image-107 alignright" src="https://www.victoriancarolsingershire.uk/wp-content/uploads/2016/12/Dickensian_singers_background-150x150.jpg" alt="Victorian Singers Hire uk" width="150" height="150" /></a><em>A massive thank you for a fantastic performance. It was much appreciated and it sounded wonderful. I am sure we will speak again sometime in the future. Until then, wishing you all a wonderful Christmas and new year!</em></span></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
