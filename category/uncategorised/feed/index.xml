@@ -12,11 +12,11 @@
 	<atom:link href="http://localhost/category/uncategorised/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.victoriancarolsingershire.uk/</link>
 	<description>The best and most experienced Dickensian carolers</description>
-	<lastBuildDate>Wed, 08 Feb 2017 18:47:29 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Feb 2020 19:34:04 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<generator>https://wordpress.org/?v=4.7.16</generator>
 
 <image>
 	<url>https://www.victoriancarolsingershire.uk/wp-content/uploads/2016/05/cropped-Victorian-Carolers-for-Hire-32x32.png</url>
@@ -34,7 +34,7 @@
 
 		<guid isPermaLink="false">https://www.victoriancarolsingershire.uk/?p=91</guid>
 		<description><![CDATA[&#8220;Thanks to you and the other singers for the lovely performance. As promised, here are some photos from last night (credit GK Studios).&#8221; Best &#8211; Kat, Debenhams Ottaway LLP]]></description>
-				<content:encoded><![CDATA[<p><img class="alignright wp-image-92 size-medium" src="https://www.victoriancarolsingershire.uk/wp-content/uploads/2016/07/Victorian_Carol_Singers_for_hire_uk-300x279.jpg" alt="Victorian Carol Singers for hire uk" width="300" height="279" srcset="https://www.victoriancarolsingershire.uk/wp-content/uploads/2016/07/Victorian_Carol_Singers_for_hire_uk-300x279.jpg 300w, https://www.victoriancarolsingershire.uk/wp-content/uploads/2016/07/Victorian_Carol_Singers_for_hire_uk.jpg 500w" sizes="(max-width: 300px) 85vw, 300px" />&#8220;<span class="s1">Thanks to you and the other singers for the lovely performance. </span><span class="s1">As promised, here are some photos from last night (credit <a href="http://www.gkstudios.co.uk/">GK Studios</a>).&#8221; </span><span class="s1">Best &#8211; </span><span class="s1">Kat, </span><a href="http://debenhamsottaway.co.uk/"><span class="s1">Debenhams Ottaway LLP</span></a></p>
+				<content:encoded><![CDATA[<p><img class="alignright wp-image-92 size-medium" src="https://www.victoriancarolsingershire.uk/wp-content/uploads/2016/07/Victorian_Carol_Singers_for_hire_uk-300x279.jpg" alt="Victorian Carol Singers for hire uk" width="300" height="279" srcset="https://www.victoriancarolsingershire.uk/wp-content/uploads/2016/07/Victorian_Carol_Singers_for_hire_uk-300x279.jpg 300w, https://www.victoriancarolsingershire.uk/wp-content/uploads/2016/07/Victorian_Carol_Singers_for_hire_uk.jpg 500w" sizes="(max-width: 300px) 85vw, 300px" /><em>&#8220;<span class="s1">Thanks to you and the other singers for the lovely performance. </span><span class="s1">As promised, here are some photos from last night (credit <a href="http://www.gkstudios.co.uk/">GK Studios</a>).&#8221; </span><span class="s1">Best &#8211; </span><span class="s1">Kat, </span><a href="http://debenhamsottaway.co.uk/"><span class="s1">Debenhams Ottaway LLP</span></a></em></p>
 ]]></content:encoded>
 			</item>
 	</channel>

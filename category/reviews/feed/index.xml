@@ -12,11 +12,11 @@
 	<atom:link href="http://localhost/category/reviews/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.victoriancarolsingershire.uk/</link>
 	<description>The best and most experienced Dickensian carolers</description>
-	<lastBuildDate>Wed, 08 Feb 2017 18:47:29 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Feb 2020 19:34:04 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<generator>https://wordpress.org/?v=4.7.16</generator>
 
 <image>
 	<url>https://www.victoriancarolsingershire.uk/wp-content/uploads/2016/05/cropped-Victorian-Carolers-for-Hire-32x32.png</url>
@@ -26,6 +26,19 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Christmas Market, Manchester Royal Exchange, Carol Singing Quartet</title>
+		<link>https://www.victoriancarolsingershire.uk/reviews/manchester-royal-exchange-carol-singing-quartet/</link>
+		<pubDate>Tue, 17 Dec 2019 13:06:05 +0000</pubDate>
+		<dc:creator><![CDATA[victoriancarols_wp]]></dc:creator>
+				<category><![CDATA[reviews]]></category>
+
+		<guid isPermaLink="false">https://www.victoriancarolsingershire.uk/?p=138</guid>
+		<description><![CDATA[&#8220;Just a quick note to say Ross and the team were fantastic (again) on Saturday! They contributed hugely to a very successful Christmas shopping event and the customers &#8211; and retailers &#8211; loved them! I hope to get the go-ahead to do again for 2020 so I&#8217;ll no doubt be in touch in the new &#8230; <a href="https://www.victoriancarolsingershire.uk/reviews/manchester-royal-exchange-carol-singing-quartet/" class="more-link">Continue reading<span class="screen-reader-text"> "Christmas Market, Manchester Royal Exchange, Carol Singing Quartet"</span></a>]]></description>
+				<content:encoded><![CDATA[<p><em>&#8220;Just a quick note to say Ross and the team were fantastic (again) on Saturday! They contributed hugely to a very successful Christmas shopping event and the customers &#8211; and retailers &#8211; loved them!</em></p>
+<p><em><img class="alignleft size-medium wp-image-146" src="https://www.victoriancarolsingershire.uk/wp-content/uploads/2019/12/Victorian-carolling-quartet-300x200.jpg" alt="victorian carol singers hire uk" width="300" height="200" srcset="https://www.victoriancarolsingershire.uk/wp-content/uploads/2019/12/Victorian-carolling-quartet-300x200.jpg 300w, https://www.victoriancarolsingershire.uk/wp-content/uploads/2019/12/Victorian-carolling-quartet-768x512.jpg 768w, https://www.victoriancarolsingershire.uk/wp-content/uploads/2019/12/Victorian-carolling-quartet.jpg 1000w" sizes="(max-width: 300px) 85vw, 300px" />I hope to get the go-ahead to do again for 2020 so I&#8217;ll no doubt be in touch in the new year! In the meantime, have a lovely Christmas, and a very Happy New Year!&#8221; &#8211; </em><em>Karen</em></p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Christmas Party, Landmark Hotel, London</title>
 		<link>https://www.victoriancarolsingershire.uk/reviews/christmas-party-landmark-hotel-london/</link>
 		<pubDate>Mon, 12 Dec 2016 12:57:50 +0000</pubDate>
@@ -60,7 +73,7 @@
 
 		<guid isPermaLink="false">https://www.victoriancarolsingershire.uk/?p=87</guid>
 		<description><![CDATA[&#8220;You were all brilliant. It was a pleasure to have you. Hope to be in touch and Happy Xmas and New year too!&#8221; &#8211; Sharon, Arundel by Candlelight Organiser]]></description>
-				<content:encoded><![CDATA[<p>&#8220;<span class="s1">You were all brilliant. It was a pleasure to have you. Hope to be in touch and Happy Xmas and New year too!&#8221; &#8211; Sharon, <a href="https://www.facebook.com/Arundel-By-Candlelight-738964629523039/">Arundel by Candlelight</a> Organiser</span></p>
+				<content:encoded><![CDATA[<p><em>&#8220;<span class="s1">You were all brilliant. It was a pleasure to have you. Hope to be in touch and Happy Xmas and New year too!&#8221; &#8211; Sharon, <a href="https://www.facebook.com/Arundel-By-Candlelight-738964629523039/">Arundel by Candlelight</a> Organiser</span></em></p>
 ]]></content:encoded>
 			</item>
 		<item>
