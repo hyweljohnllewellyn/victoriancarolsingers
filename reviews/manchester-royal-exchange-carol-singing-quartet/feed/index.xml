@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Christmas Market, Manchester Royal Exchange, Carol Singing Quartet</title>
-	<atom:link href="http://localhost/reviews/manchester-royal-exchange-carol-singing-quartet/feed/" rel="self" type="application/rss+xml" />
+	<title>
+	Comments on: Christmas Market, Manchester Royal Exchange, Carol Singing Quartet	</title>
+	<atom:link href="https://www.victoriancarolsingershire.uk/reviews/manchester-royal-exchange-carol-singing-quartet/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.victoriancarolsingershire.uk/reviews/manchester-royal-exchange-carol-singing-quartet/</link>
 	<description>The best and most experienced Dickensian carolers</description>
-	<lastBuildDate>Thu, 20 Feb 2020 19:27:29 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.16</generator>
+	<lastBuildDate>Wed, 05 Feb 2020 19:34:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments for Victorian Carol Singers Hire UK</title>
-	<atom:link href="http://localhost/comments/feed/" rel="self" type="application/rss+xml" />
+	<title>
+	Comments for Victorian Carol Singers Hire UK	</title>
+	<atom:link href="https://www.victoriancarolsingershire.uk/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.victoriancarolsingershire.uk/</link>
 	<description>The best and most experienced Dickensian carolers</description>
-	<lastBuildDate>Thu, 20 Feb 2020 19:27:26 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.16</generator>
+	<lastBuildDate>Tue, 28 Sep 2021 16:46:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>
