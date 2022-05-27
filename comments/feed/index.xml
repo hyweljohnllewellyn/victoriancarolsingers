@@ -11,11 +11,11 @@
 	<atom:link href="https://www.victoriancarolsingershire.uk/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.victoriancarolsingershire.uk/</link>
 	<description>The best and most experienced Dickensian carolers</description>
-	<lastBuildDate>Tue, 28 Sep 2021 16:46:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 May 2022 16:56:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<generator>https://wordpress.org/?v=5.8.4</generator>
 </channel>
 </rss>
